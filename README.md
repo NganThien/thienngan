@@ -1,0 +1,2 @@
+# thienngan
+Code các thứ
